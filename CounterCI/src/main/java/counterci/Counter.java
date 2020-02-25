@@ -5,7 +5,7 @@ public class Counter {
     private int data;
     
     public Counter() {
-        data = 1;
+        data = 0;
     }
     
     public int increment() {
