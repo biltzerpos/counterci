@@ -15,8 +15,7 @@ public class CounterTest {
     @Test
     public void testIncrement() {
         assertEquals(1,c.increment());
-        assertEquals(2,c.increment());
-        // Fake test
+        assertEquals(3,c.increment());
     }
 
     @Test
