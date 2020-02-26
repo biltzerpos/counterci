@@ -16,6 +16,7 @@ public class CounterTest {
     public void testIncrement() {
         assertEquals(1,c.increment());
         assertEquals(2,c.increment());
+        // Fake test
     }
 
     @Test
